@@ -3,10 +3,10 @@ import colors from 'vuetify/es5/util/colors'
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - yasin_portal',
-    title: 'yasin_portal',
+    titleTemplate: 'YasinShaw的个人网站',
+    title: 'YasinShaw的个人网站',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'zh-cn'
     },
     meta: [
       { charset: 'utf-8' },
