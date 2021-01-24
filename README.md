@@ -1,4 +1,14 @@
-# yasin_portal
+# Introduction
+This is the portal of my personal site: [https://yasinshaw.com]
+
+## Tech Stack：
+- vue
+- nuxt
+- vuetify
+- axios
+
+## CI/CD
+This project is using drone and docker for CI/CD，please update the `.drone.yml` if need.
 
 ## Build Setup
 
